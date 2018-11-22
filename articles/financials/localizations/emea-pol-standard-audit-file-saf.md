@@ -425,11 +425,17 @@ The following table shows the sales tax codes and sales tax reporting codes for 
 <td>-</td>
 </tr>
 <tr>
-<td rowspan="4"><strong>ReverseCharge</strong></td>
+<td rowspan="6"><strong>ReverseCharge</strong></td>
 <td>11301</td>
 <td>Taxable sales</td>
-<td>K_34</td>
+<td>K_31</td>
 <td>-</td>
+</tr>
+<tr>
+<td>11314</td>
+<td>Taxable sales</td>
+<td>K_34</td>
+<td>+</td>
 </tr>
 <tr>
 <td>11302</td>
@@ -440,8 +446,14 @@ The following table shows the sales tax codes and sales tax reporting codes for 
 <tr>
 <td>11304</td>
 <td>Taxable sales credit note</td>
-<td>K_34</td>
+<td>K_31</td>
 <td>-</td>
+</tr>
+<tr>
+<td>11324</td>
+<td>Taxable sales credit note</td>
+<td>K_34</td>
+<td>+</td>
 </tr>
 <tr>
 <td>11306</td>
